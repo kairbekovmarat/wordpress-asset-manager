@@ -1,7 +1,7 @@
 <?php
   /*
     * Plugin Name: Asset Manager by Kanno Software
-    * Description: Easy asset management on the website
+    * Description: Easy asset management on the website. Enable and disable any CSS and JS on any page or post.
     * Plugin URI: https://github.com/kanno-software/wordpress-asset-manager
     * Version: 1.0
     * Author: Kanno Software
